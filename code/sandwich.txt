@@ -1,0 +1,10 @@
+estimate: 25 lines
+
+Place one piece of bread A at point A
+open jar of peanut butter
+put knife into peanut butter jar
+Spread 2cm of peanut butter across top of bread A 
+Place one piece of bread B at point B 
+Spread 2cm of jelly across top of bread B 
+Define each corner of bread A and B as 1, 2, 3, 4 starting at top left and moving clockwise
+Flip bread B onto bread A, aligning A1 and B2, A2 and B1, A4 and B3 and A3 and B4
